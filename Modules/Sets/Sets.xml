@@ -1,0 +1,17 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Align.lua"/>
+	<Script file="AlreadyKnown.lua"/>
+	<Script file="Cooldown.lua"/>
+	<Script file="DragEmAll.lua"/>
+	<Script file="Durability.lua"/>
+	<Script file="ExpRep.lua"/>
+	<Script file="Focuser.lua"/>
+	<Script file="GarrisonUI.lua"/>
+	<Script file="Mail.lua"/>
+	<Script file="ObjectiveTracker.lua"/>
+	<Script file="QuickQuest.lua"/>
+	<Script file="Roster.lua"/>
+	<Script file="Scripts.lua"/>
+	<Script file="SoloInfo.lua"/>
+	<Script file="TradeTabs.lua"/>
+</Ui>

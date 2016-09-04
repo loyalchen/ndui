@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Include file="rLib\rLib.xml"/>
+	<Include file="cargBags\cargBags.xml"/>
+	<Include file="oUF\oUF.xml"/>
+</Ui>

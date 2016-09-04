@@ -1,0 +1,6 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Include file="BlizzardFix\BlizzardFix.xml"/>
+	<Include file="Diminfo\Diminfo.xml"/>
+	<Include file="FriendsMenuXP\FriendsMenuXP.xml"/>
+	<Include file="yClassColors\yClassColors.xml"/>
+</Ui>

@@ -1,0 +1,12 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Buff.lua"/>
+	<Script file="BuffFormat.lua"/>
+	<Script file="Checker.lua"/>
+	<Script file="Reminder.lua"/>
+	<Script file="BloodHelper.lua"/>
+	<Script file="Stagger.lua"/>
+	<Script file="Totems.lua"/>
+	<Script file="CPoints.lua"/>
+	<Script file="AuraWatch.lua"/>
+	<Script file="Resolve.lua"/>
+</Ui>

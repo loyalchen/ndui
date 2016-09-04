@@ -1,0 +1,10 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Bags.lua"/>
+	<Script file="DBM.lua"/>
+	<Script file="Frames.lua"/>
+	<Script file="MicroMenu.lua"/>
+	<Script file="Nameplate.lua"/>
+	<Script file="RaidManager.lua"/>
+	<Script file="Skada.lua"/>
+	<Script file="ExtraCD.lua"/>
+</Ui>

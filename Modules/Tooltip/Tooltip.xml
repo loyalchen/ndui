@@ -1,0 +1,11 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Tip.lua"/>
+	<Script file="Itemicons.lua"/>
+	<Script file="SpellID.lua"/>
+	<Script file="CastBy.lua"/>
+	<Script file="Spec.lua"/>
+	<Script file="ItemLevel.lua"/>
+	<Script file="Raidrole.lua"/>
+	<Script file="PetTip.lua"/>
+	<Script file="Hovertips.lua"/>
+</Ui>
